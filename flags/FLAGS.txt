@@ -1,0 +1,57 @@
+FLAGS
+
+FLAG{ftp_4n0nym0us_4cc3ss} 10+
+
+FLAG{p4ssw0rd_f1l3_d1sc0v3ry} 20+
+
+FLAG{r0b0ts_txt_l34k4g3} 10+
+
+FLAG{xss_r3fl3ct3d_vuln3r4b1l1ty} 20+
+
+FLAG{b4s1c_s0urc3_c0d3_1nsp3ct10n} 10+
+
+FLAG{ssh_h0m3_d1r3ct0ry_3xpl0r4t10n} 30+
+
+FLAG{c0nf1g_f1l3_r34d} 40+
+
+FLAG{d4t4b4s3_cr3d3nt14ls_3xp0s3d}  10+
+
+FLAG{v13w_d1sc0v3ry_4dv4nc3d} 40+
+
+FLAG{g1t_cr3d3nt14ls_l34k} 30+
+
+FLAG{b4sh_h1st0ry_l34k} 30+
+
+FLAG{h1dd3n_d4t4_1n_d4t4b4s3} 40+
+
+FLAG{sql_1nj3ct10n_m4st3r} 20+
+
+
+
+
+
+FLAG{ftp_4n0nym0us_4cc3ss}
+
+FLAG{p4ssw0rd_f1l3_d1sc0v3ry}
+
+FLAG{r0b0ts_txt_l34k4g3}
+
+FLAG{xss_r3fl3ct3d_vuln3r4b1l1ty}
+
+FLAG{b4s1c_s0urc3_c0d3_1nsp3ct10n}
+
+FLAG{ssh_h0m3_d1r3ct0ry_3xpl0r4t10n}
+
+FLAG{c0nf1g_f1l3_r34d}
+
+FLAG{d4t4b4s3_cr3d3nt14ls_3xp0s3d}
+
+FLAG{v13w_d1sc0v3ry_4dv4nc3d}
+
+FLAG{g1t_cr3d3nt14ls_l34k}
+
+FLAG{b4sh_h1st0ry_l34k}
+
+FLAG{h1dd3n_d4t4_1n_d4t4b4s3}
+
+FLAG{sql_1nj3ct10n_m4st3r}
